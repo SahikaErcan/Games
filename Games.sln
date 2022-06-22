@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingPicturesGame", "MatchingPicturesGame\MatchingPicturesGame.csproj", "{ABD2773E-437D-465B-A351-CEDA643B2728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HangmanGame", "HangmanGame\HangmanGame.csproj", "{75093217-3D2A-4247-9D6B-C743EA0F8215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD2773E-437D-465B-A351-CEDA643B2728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD2773E-437D-465B-A351-CEDA643B2728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD2773E-437D-465B-A351-CEDA643B2728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD2773E-437D-465B-A351-CEDA643B2728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75093217-3D2A-4247-9D6B-C743EA0F8215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75093217-3D2A-4247-9D6B-C743EA0F8215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75093217-3D2A-4247-9D6B-C743EA0F8215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75093217-3D2A-4247-9D6B-C743EA0F8215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0AC9047-4F77-4D72-8E28-5939A17DA25C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+Aslı	75
+Cihan	100
+Yavuz	99
+Doruk	16
+Defne	0
+Cahit	99
+Tuğçe	100
+Yavuz	100
+Ali	100
+Ayşe	64
+Doruk	20
+Toprak	100
+Rüzgar	28
